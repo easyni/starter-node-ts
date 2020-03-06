@@ -1,0 +1,12 @@
+.cache
+node_modules/
+**/dist/*
+**/lib/*
+storybook/
+!dist/.gitkeep
+coverage/
+doc/*
+.env
+*.log
+i18n.json
+.yo-rc.json
