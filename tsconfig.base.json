@@ -7,7 +7,7 @@
     "checkJs": false,
     "experimentalDecorators": true,
     "noImplicitAny": false,
-    "listFiles": true,
+    "listFiles": false,
     "sourceMap": true,
     "downlevelIteration": true,
     "allowSyntheticDefaultImports": true,
