@@ -5,25 +5,25 @@
 ## Install
 
 ```sh
-yarn install
+pnpm install
 ```
 
 ## Run build
 
 ```sh
-yarn build
+pnpm build
 ```
 
 ## Run start
 
 ```sh
-yarn start
+pnpm start
 ``` 
 
 ## Run tests
 
 ```sh
-yarn test
+pnpm test
 ```
 
 ## Show your support
